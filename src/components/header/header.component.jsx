@@ -4,7 +4,7 @@ import "./header.styles.scss";
 const Header = () => {
   return (
     <div className="header">
-      <h1 id="home" class="display-3" color="secondary">
+      <h1 id="home" className="display-3" color="secondary">
         ACE COACHING
       </h1>
       <br/>
